@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-governance-risk-and-compliance-dart-mobile",
+  "capabilityKey": "planned:sap:governance-risk-and-compliance",
+  "presentation": "dart-mobile",
+  "package": "module_sap_governance_risk_and_compliance_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/sap/nextjs/governance-risk-and-compliance.md",
+  "presentationPlan": "projects/sap/features/governance-risk-and-compliance.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
